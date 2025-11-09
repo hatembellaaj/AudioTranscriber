@@ -1,0 +1,4 @@
+# backend/.gitignore
+temp_audio_input/
+temp_audio.wav
+__pycache__/
